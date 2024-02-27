@@ -3,5 +3,5 @@ langchain-openai
 langchain_community
 qdrant-client
 jq
-getpass
 tiktoken
+chromadb
